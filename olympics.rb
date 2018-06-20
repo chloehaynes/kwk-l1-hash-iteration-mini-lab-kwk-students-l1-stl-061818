@@ -9,7 +9,6 @@ summer_olympics = {
 
 summer_olympics["Atlanta"] = 1996
 
-# puts summer_olympics[1996].insert(0,"Atlanta")
 
 puts summer_olympics
 
